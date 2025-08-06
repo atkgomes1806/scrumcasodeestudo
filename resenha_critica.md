@@ -85,6 +85,6 @@ O estudo confirma que a **melhor abordagem ágil é aquela construída com base 
 ## 🔖 Referência
 
 Lohmann, M. & Krabbe, J. (2023). *What We Learned from Descaling 25 Scrum Teams*. Agile Alliance.  
-Disponível em: [PDF original](https://agilealliance.org/resources/experience-reports/what-we-learned-from-descaling-25-scrum-teams/)
+Disponível em: (https://agilealliance.org/resources/experience-reports/what-we-learned-from-descaling-25-scrum-teams/)
 
 ---
