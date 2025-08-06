@@ -42,8 +42,9 @@ A resenha está dividida nos seguintes tópicos:
 ## 📂 Arquivos do Repositório
 
 📁 resenha-scrum-descaling/
-├── README.md # Este arquivo
-├── resenha_critica.md # Texto completo em Markdown
+├── README.md 
+
+├── resenha_critica.md  
 
 
 ---
